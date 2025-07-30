@@ -1,6 +1,6 @@
 # MIPS-Project
 
-Design and verification of an 8-bit MIPS processor, integrating key modules such as the Instruction Register, Control FSM, Register File, ALU, ALU Control, and Program Counter. The design is implemented using Verilog for RTL design and verified with methodologies inspired by UVM environments. Schematics and layouts were crafted using Virtuoso.
+Design and verification of an 8-bit MIPS processor, integrating key modules such as the Instruction Register, Control FSM, Register File, ALU, ALU Control, and Program Counter using RTL Design. Schematics and layouts were crafted using Virtuoso.
 Block Diagram:
 <img width="468" alt="image" src="https://github.com/user-attachments/assets/a727565b-7ebe-4f01-b9ce-f244c28969e9" />
 
@@ -32,11 +32,3 @@ Block Diagram:
   Run the testbench (`mips_tb.v`) to verify design functionality.
 - **Schematics & Layouts:**  
   Virtuoso is used for schematics and layout views.
-
-## Getting Started
-
-1. **Clone the Repository:**
-
-   ```bash
-   git clone https://github.com/yeshwanthkattta/MIPS-Project.git
-   cd MIPS-Project
